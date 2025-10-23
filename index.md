@@ -5,7 +5,7 @@
 
 ### 1️⃣ Unidad 1: Fundamentos y Paradigmas
 * [Temas]
-
+* [Algoritmos](unida1.md)
 ### 2️⃣ Unidad 2: Estructuras de Datos y Algoritmos
 * [Temas]
 
