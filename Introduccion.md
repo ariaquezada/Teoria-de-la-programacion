@@ -1,66 +1,74 @@
-📚 Teoría de la Programación: Un Portafolio Digital de Aprendizaje ✨
+# 💻 Portafolio Digital: Teoría de la Programación
 
 ---
 
-### ¡Bienvenido a mi portafolio digital de Teoría de la Programación! 🚀
+## 1. 📂 Carátula y Datos Institucionales
 
-Este espacio resume mi viaje de aprendizaje, explorando desde los fundamentos algorítmicos hasta la complejidad de las estructuras de datos y la teoría del cómputo. Cada unidad representa una inmersión profunda en conceptos esenciales, con un enfoque en la aplicación práctica y el análisis crítico.
-
----
-
-## 🎯 Unidades de Estudio
-
-### 🧠 1. Unidad 1: Fundamentos y Paradigmas
-_Explorando los pilares de la programación y sus enfoques._
-
-* 🟢 **Temas Clave:** [Resumen de Contenidos y Conceptos Esenciales](Unidad1_Temas.md)
-* 🔵 **Profundizando en Algoritmos:** [Análisis y Ejemplos Prácticos](Unidad1_Algoritmos.md)
+| Elemento | Detalle | 🔗 Enlace de Modificación |
+| :--- | :--- | :--- |
+| **Institución** | [Nombre de la Institución] | [Modificar Institución] |
+| **Carrera** | [Nombre de la Carrera] | [Modificar Carrera] |
+| **Asignatura** | **Teoría de la Programación** | [Modificar Asignatura] |
+| **Docente** | [Nombre del Docente] | [Modificar Docente] |
+| **Estudiante** | [Tu Nombre Completo] | [Modificar Estudiante] |
+| **Ciclo/Nivel** | [Especificar Ciclo/Nivel] | [Modificar Ciclo] |
+| **Período Académico** | [Especificar Período: p. ej., 2025-II] | [Modificar Período] |
 
 ---
 
-### 🌳 2. Unidad 2: Estructuras de Datos y Algoritmos
-_Dominando la organización de la información y la eficiencia computacional._
+## 2. 🧠 Unidad 1: Fundamentos y Paradigmas
 
-* 🟠 **Temas Clave:** [Índice de Estructuras y Métodos](Unidad2_Temas.md)
-* 🟣 **Implementaciones y Desafíos:** [Ejercicios y Soluciones](Unidad2_Ejercicios.md)
+Esta unidad establece las bases del pensamiento lógico y la representación de soluciones mediante estructuras algorítmicas iniciales.
+
+### 2.1. Contenidos Desarrollados 📜
+
+* **Algoritmos, Pseudocódigo, Diagrama de Flujo:**
+    * [Descripción y ejemplos de las herramientas de representación algorítmica.]
+    * 🔗 **Ver Documento:** [Enlace a Contenidos U1.1]
+
+* **Programación por Bloques:**
+    * [Análisis de la herramienta utilizada y su contribución a la lógica estructurada.]
+    * 🔗 **Ver Documento:** [Enlace a Contenidos U1.2]
+
+* **Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales:**
+    * [Anexo con los ejemplos prácticos desarrollados y su código o pseudocódigo.]
+    * 🔗 **Ver Anexo:** [Enlace a Ejemplos Lineales]
+
+* **⚠️ Principales Dificultades en la Aplicación de los Contenidos:**
+    * [Breve análisis de los retos específicos enfrentados, p. ej., la correcta implementación de la sintaxis.]
+    * 🔗 **Ver Reflexión:** [Enlace a Dificultades U1]
+
+* **💡 Reflexión Crítica de los Aprendizajes de la Unidad:**
+    * [Análisis profundo sobre la importancia de esta unidad como base para el resto de la programación.]
+    * 🔗 **Ver Reflexión:** [Enlace a Crítica U1]
+
+### 2.2. Tareas Entregadas 📑
+
+| Tarea | Descripción Breve | 🔗 Enlace a Evidencia |
+| :--- | :--- | :--- |
+| **Herramientas de Algoritmos** | Desarrollo de ejemplos en pseudocódigo y diagramas de flujo. | [Enlace a Tarea 1] |
+| **Instalación de Lenguajes (C, Python o Java)** | Evidencia del entorno de trabajo configurado. | [Enlace a Tarea 2] |
+| **Primer Acercamiento al Algoritmo** | Construcción de algoritmos con estructuras secuenciales en pseudocódigo. | [Enlace a Tarea 3] |
+| **Del Diseño a la Construcción** | Implementación de estructuras secuenciales en el lenguaje elegido. | [Enlace a Tarea 4] |
 
 ---
 
-### 🌌 3. Unidad 3: Teoría de Lenguajes y Cómputo
-_Comprendiendo los cimientos formales del software y sus límites._
+## 3. 📚 Bibliografía (Formato IEEE)
 
-* 🟡 **Temas Clave:** [Conceptos Fundamentales y Modelos](Unidad3_Temas.md)
-* 🟤 **Máquinas y Computabilidad:** [Estudios de Caso y Reflexiones](Unidad3_Estudios.md)
+Lista de fuentes académicas y referencias utilizadas.
 
----
-
-## ✅ Conclusiones y Reflexiones Finales
-
-✨ **Aprendizajes Clave:**
-* [Puntos destacados del conocimiento adquirido]
-* [Habilidades desarrolladas y fortalecidas]
-
-💡 **Aplicación Práctica:**
-* [Cómo los conceptos se conectan con proyectos o escenarios reales]
-* [Ejemplos concretos de uso de la teoría en el desarrollo de software]
+1.  [Referencia 1 - Libro/Artículo/Norma en Formato IEEE]
+2.  [Referencia 2 - Libro/Artículo/Norma en Formato IEEE]
+3.  [Referencia 3 - Web/Recurso en Formato IEEE]
+🔗 **Modificar Bibliografía:** [Enlace para Editar la Lista de Referencias]
 
 ---
 
-## 🔗 Referencias Académicas
+## 4. 🤖 Declaración de Uso de la IA Generativa
 
-📚 **Fuentes Consultadas:**
-* [Libro/Artículo 1 en formato APA/MLA]
-* [Libro/Artículo 2 en formato APA/MLA]
-* [Enlace a recurso online 1]
-
----
-
-## 🤖 Uso de la Inteligencia Artificial Generativa
-
-⚡️ **Herramientas Utilizadas:**
-* **[Nombre de la IA 1]:** [Contribución específica, p. ej., "Generación de ideas para ejemplos de algoritmos"]
-* **[Nombre de la IA 2]:** [Contribución específica, p. ej., "Revisión de la redacción y claridad de las explicaciones"]
-
-🤔 **Reflexión Crítica:**
-* [Impacto de la IA en el proceso de aprendizaje]
-* [Consideraciones éticas sobre su uso en el ámbito académico]
+| Aspecto | Detalle de Uso |
+| :--- | :--- |
+| **Herramientas Utilizadas** | [Nombrar las IA: p. ej., Google Gemini, ChatGPT, GitHub Copilot] |
+| **Contribución Específica** | [Detallar la ayuda: p. ej., *Revisión de la sintaxis*, *Sugerencia de ejemplos*, *Asistencia en la redacción*] |
+| **Reflexión Ética** | [Declaración sobre el uso responsable y la autoría del trabajo.] |
+🔗 **Modificar Declaración IA:** [Enlace para Editar la Declaración de IA]
