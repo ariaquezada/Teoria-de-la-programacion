@@ -1,8 +1,8 @@
 # 🧭 ÍNDICE DE LA UNIDAD 1: Fundamentos y Paradigmas 🧠
 
----
+***
 
-## 📚 1. Contenidos Fundamentales (Temas de Estudio)
+## 1. 📚 Contenidos Fundamentales (Temas de Estudio)
 
 Esta sección enlaza a los documentos que contienen el desarrollo teórico y conceptual de la unidad.
 
@@ -14,12 +14,13 @@ Esta sección enlaza a los documentos que contienen el desarrollo teórico y con
 | **⚠️ Principales Dificultades en la Aplicación** | Análisis de retos y obstáculos encontrados al aplicar los contenidos. | [Ver Reflexión](U1_D_Dificultades.md) |
 | **💡 Reflexión Crítica de los Aprendizajes** | Evaluación del impacto de los conocimientos adquiridos en el pensamiento lógico. | [Ver Reflexión](U1_E_Critica.md) |
 
----
+***
 
-## ✅ 2. Tareas Entregadas (Evidencias de Aplicación)
+## 2. ✅ Tareas Entregadas (Evidencias de Aplicación)
 
-Aquí se encuentran los enlaces a los archivos que demuestran la aplicación práctica de los conocimientos de la unidad. Para acceder a esto presiona el link, [Carpeta de trabajos realizados](https://drive.google.com/drive/folders/1NycsuTv0fq7Ew5-kK-dBzzMLIKWuieat?usp=drive_link) el cual te llevara a una carpeta de drive donde se encuentra todos los trabajos presentados.
-Si quieres acceder individualmente usa el link designado.
+Aquí se encuentran los enlaces a los archivos que demuestran la aplicación práctica de los conocimientos de la unidad.
+
+> **Acceso Rápido a TODAS las Evidencias:** [Carpeta de trabajos realizados](https://drive.google.com/drive/folders/1NycsuTv0fq7EwE5-kK-dBzzMLIKWuieat?usp=drive_link)
 
 | 📂 Tarea Entregada | ⭐ Objetivo Principal | 🔗 Acceso a Evidencia |
 | :--- | :--- | :--- |
@@ -30,7 +31,15 @@ Si quieres acceder individualmente usa el link designado.
 
 ***
 
-## ⚙️ Recursos y Documentos Globales
+## 3. 🎯 Conclusión de la Unidad
+
+Revisa el análisis final y la síntesis de los logros alcanzados y los aprendizajes clave de la Unidad 1.
+
+* **Conclusión y Síntesis de la Unidad 1:** [Ver Documento](U1_Conclusion.md)
+
+***
+
+## 4. ⚙️ Recursos y Documentos Globales
 
 | 📄 Documento | 📝 Descripción | 🌐 Enlace |
 | :--- | :--- | :--- |
@@ -39,5 +48,3 @@ Si quieres acceder individualmente usa el link designado.
 ***
 
 ### 🔙 Navegación Principal
-
-* [Regresar a Introducción del Portafolio](Introduccion.md)
