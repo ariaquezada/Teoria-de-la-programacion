@@ -32,7 +32,7 @@ _Explorando los pilares del pensamiento computacional y la lógica algorítmica.
 
 _Dominando la organización de la información y la eficiencia en la resolución de problemas._
 
-**🚧 Contenido en Desarrollo:** Esta unidad recien se elaborara.
+**🚧 Contenido en Desarrollo:** Esta unidad recien se elaborará.
 
 ---
 
