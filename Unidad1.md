@@ -35,7 +35,7 @@ Aquí se encuentran los enlaces a los archivos que demuestran la aplicación pr�
 
 Revisa el análisis final y la síntesis de los logros alcanzados y los aprendizajes clave de la Unidad 1.
 
-* **Conclusión y Síntesis de la Unidad 1:** [Ver Documento](U1_Conclusion.md)
+* **Conclusión y Síntesis de la Unidad 1:** [Acceso a la conclusion](Conclusion_U1.md)
 
 ***
 
