@@ -64,9 +64,9 @@ _Transparencia sobre las herramientas de inteligencia artificial utilizadas y su
 
 | Aspecto | Detalle de Uso |
 | :--- | :--- |
-| **Herramientas Utilizadas** | [Nombrar las IA: p. ej., Google Gemini, ChatGPT, GitHub Copilot] |
-| **Contribución Específica** | [Detallar la ayuda: p. ej., *Revisión de la sintaxis*, *Sugerencia de ejemplos*, *Asistencia en la redacción*] |
-| **Reflexión Ética** | [Declaración sobre el uso responsable y la autoría del trabajo.] |
+| **Herramientas Utilizadas** | **Google Gemini** |
+| **Contribución Específica** | **Estructuración y Diseño:** Ayuda en la **organización** del índice, **mejora estética** (uso de iconos y tablas), **adaptación de formatos** académicos (IEEE), y generación de los **enlaces de navegación** internos. |
+| **Reflexión Ética** | La IA fue utilizada únicamente como **asistente de formato y estructura**. La **autoría intelectual** y el **contenido académico (algoritmos, reflexiones)** de la Unidad 1 son **propios** del estudiante. |
 🔗 **Editar Declaración IA:** [Enlace para Modificar la Declaración de IA](Declaracion_IA.md)
 
 ---
