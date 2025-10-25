@@ -48,4 +48,4 @@ Revisa el análisis final y la síntesis de los logros alcanzados y los aprendiz
 ***
 
 ### 🔙 Navegación Principal
-[Regresar introduccion](Introduccion.md)
+[Regresar a la introduccion](Introduccion.md)
