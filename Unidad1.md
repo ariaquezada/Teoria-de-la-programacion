@@ -24,9 +24,9 @@ Si quieres acceder individualmente usa el link designado.
 | 📂 Tarea Entregada | ⭐ Objetivo Principal | 🔗 Acceso a Evidencia |
 | :--- | :--- | :--- |
 | **Herramientas de Algoritmos** (Pseudocódigo y Diagramas) | Creación de pseudocódigo y diagramas de flujo para problemas básicos. | [Ver archivo](https://drive.google.com/file/d/1SS_BKoJF4FUG13-5C8DbXT-q_v5-7_J6/view?usp=drive_link) |
-| **Instalación de Lenguajes** (C, Python o Java) | Configuración del entorno de desarrollo para el lenguaje de programación elegido. | [Ver Tarea](https://drive.google.com/file/d/12CnLRGwki9wI1x-ENfTFpAd3hGncuykF/view?usp=drive_link) |
-| **Primer Acercamiento al Algoritmo** | Construcción de algoritmos con estructuras secuenciales en pseudocódigo. | [Ver Tarea](https://drive.google.com/file/d/1sNqYAWTK6Vg6yImuvpzccYX4cBsS3m5A/view?usp=drive_link) |
-| **Del Diseño a la Construcción** | Implementación del algoritmo secuencial en código funcional. | [Ver Tarea](T4_Implementacion.md) |
+| **Instalación de Lenguajes** (C, Python o Java) | Configuración del entorno de desarrollo para el lenguaje de programación elegido. | [Ver archivo](https://drive.google.com/file/d/12CnLRGwki9wI1x-ENfTFpAd3hGncuykF/view?usp=drive_link) |
+| **Primer Acercamiento al Algoritmo** | Construcción de algoritmos con estructuras secuenciales en pseudocódigo. | [Ver archivo](https://drive.google.com/file/d/1sNqYAWTK6Vg6yImuvpzccYX4cBsS3m5A/view?usp=drive_link) |
+| **Del Diseño a la Construcción** | Implementación del algoritmo secuencial en código funcional. | [Ver archivo](T4_Implementacion.md) |
 
 ***
 
