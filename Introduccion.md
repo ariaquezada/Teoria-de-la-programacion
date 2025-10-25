@@ -18,28 +18,8 @@
 ## 2. 🧠 Unidad 1: Fundamentos y Paradigmas
 
 Esta unidad establece las bases del pensamiento lógico y la representación de soluciones mediante estructuras algorítmicas iniciales.
+[Acceso a la Unidad 1](Unidad1.md)
 
-### 2.1. Contenidos Desarrollados 📜
-
-* **Algoritmos, Pseudocódigo, Diagrama de Flujo:**
-    * [Descripción y ejemplos de las herramientas de representación algorítmica.]
-    * 🔗 **Ver Documento:** [Enlace a Contenidos U1.1]
-
-* **Programación por Bloques:**
-    * [Análisis de la herramienta utilizada y su contribución a la lógica estructurada.]
-    * 🔗 **Ver Documento:** [Enlace a Contenidos U1.2]
-
-* **Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales:**
-    * [Anexo con los ejemplos prácticos desarrollados y su código o pseudocódigo.]
-    * 🔗 **Ver Anexo:** [Enlace a Ejemplos Lineales]
-
-* **⚠️ Principales Dificultades en la Aplicación de los Contenidos:**
-    * [Breve análisis de los retos específicos enfrentados, p. ej., la correcta implementación de la sintaxis.]
-    * 🔗 **Ver Reflexión:** [Enlace a Dificultades U1]
-
-* **💡 Reflexión Crítica de los Aprendizajes de la Unidad:**
-    * [Análisis profundo sobre la importancia de esta unidad como base para el resto de la programación.]
-    * 🔗 **Ver Reflexión:** [Enlace a Crítica U1]
 
 ### 2.2. Tareas Entregadas 📑
 
