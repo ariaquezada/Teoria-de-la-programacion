@@ -10,7 +10,7 @@ Esta sección enlaza a los documentos que contienen el desarrollo teórico y con
 | :--- | :--- | :--- |
 | **Algoritmos, Pseudocódigo, Diagrama de Flujo** | Conceptos y herramientas de representación lógica y algorítmica. | [Acceso a todos los archivos hechos en pseint](https://drive.google.com/drive/folders/1mlCiZorkPx-79P8WRRNJvbFe1E7qyXT-?usp=drive_link) |
 | **Programación por Bloques** | Análisis de la lógica visual y su aplicación en la construcción de programas. | [Ver Contenido](U1_B_Bloques.md) |
-| **Ejemplos de Algoritmos Lineales/Secuenciales** | Ejemplos prácticos y resueltos de secuencias de instrucciones. | [Ver Contenido](U1_C_Ejemplos.md) |
+| **Ejemplos de Algoritmos Lineales/Secuenciales** | Ejemplos prácticos y resueltos de secuencias de instrucciones. | [Problema plateado](https://drive.google.com/drive/folders/1KG_SwnCKen0lonHrJy3a-OJRdIKjXayJ?usp=drive_link) |
 | **⚠️ Principales Dificultades en la Aplicación** | Análisis de retos y obstáculos encontrados al aplicar los contenidos. | [Ver Reflexión](U1_D_Dificultades.md) |
 | **💡 Reflexión Crítica de los Aprendizajes** | Evaluación del impacto de los conocimientos adquiridos en el pensamiento lógico. | [Ver Reflexión](U1_E_Critica.md) |
 
