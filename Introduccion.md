@@ -25,7 +25,7 @@ El primer ciclo de la carrera de ciencia de la computacion cuenta con 3 unidades
 _Explorando los pilares del pensamiento computacional y la lógica algorítmica._
 
 **👉 Acceder a la Unidad 1:** [Ver Contenidos y Tareas Detallados](Unidad1.md)
-> **👉 Acceder a la Conclusion:** [Conclusion](Conclusion.md)
+> **👉 Acceder a la Conclusion:** [Conclusion](Conclusion_U1.md)
 
 ---
 
