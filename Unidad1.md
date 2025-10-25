@@ -18,7 +18,8 @@ Esta sección enlaza a los documentos que contienen el desarrollo teórico y con
 
 ## ✅ 2. Tareas Entregadas (Evidencias de Aplicación)
 
-Aquí se encuentran los enlaces a los archivos que demuestran la aplicación práctica de los conocimientos de la unidad.
+Aquí se encuentran los enlaces a los archivos que demuestran la aplicación práctica de los conocimientos de la unidad. Para acceder a esto presiona el link, el cual te llevara a una carpeta de drive donde se encuentra todos los trabajos presentados.
+Si quieres acceder individualmente usa el link designado.
 
 | 📂 Tarea Entregada | ⭐ Objetivo Principal | 🔗 Acceso a Evidencia |
 | :--- | :--- | :--- |
@@ -34,7 +35,6 @@ Aquí se encuentran los enlaces a los archivos que demuestran la aplicación pr�
 | 📄 Documento | 📝 Descripción | 🌐 Enlace |
 | :--- | :--- | :--- |
 | **📚 Bibliografía (Formato IEEE)** | Lista de fuentes académicas y referencias utilizadas para la Unidad 1. | [Ver Bibliografía](Bibliografia.md) |
-| **🤖 Declaración de Uso de IA** | Reflexión obligatoria sobre las herramientas generativas utilizadas. | [Ver Declaración](Declaracion_IA.md) |
 
 ***
 
