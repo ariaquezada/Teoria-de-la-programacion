@@ -18,7 +18,7 @@ Esta sección enlaza a los documentos que contienen el desarrollo teórico y con
 
 ## ✅ 2. Tareas Entregadas (Evidencias de Aplicación)
 
-Aquí se encuentran los enlaces a los archivos que demuestran la aplicación práctica de los conocimientos de la unidad. Para acceder a esto presiona el link, el cual te llevara a una carpeta de drive donde se encuentra todos los trabajos presentados. [Carpeta de drive](https://drive.google.com/drive/folders/1NycsuTv0fq7Ew5-kK-dBzzMLIKWuieat?usp=drive_link)
+Aquí se encuentran los enlaces a los archivos que demuestran la aplicación práctica de los conocimientos de la unidad. Para acceder a esto presiona el link, [Carpeta de trabajos realizados](https://drive.google.com/drive/folders/1NycsuTv0fq7Ew5-kK-dBzzMLIKWuieat?usp=drive_link) el cual te llevara a una carpeta de drive donde se encuentra todos los trabajos presentados.
 Si quieres acceder individualmente usa el link designado.
 
 | 📂 Tarea Entregada | ⭐ Objetivo Principal | 🔗 Acceso a Evidencia |
