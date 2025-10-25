@@ -1,19 +1,18 @@
-# 💻 Portafolio Digital: Teoría de la Programación
+# 🌟 Teoría de la Programación: Portafolio Digital de Aprendizaje 💡
 
 ---
+## [Universidad Nacional de Loja]
 
-## 1. 📂 Carátula y Datos Institucionales
+### Carrera: [Ingenieria en Ciencias de la Computacion]
+### Docente: [Lissette Lopez]
 
-| Elemento | Detalle | 🔗 Enlace de Modificación |
+***
+
+| Estudiante | Ciclo/Nivel | Período Académico |
 | :--- | :--- | :--- |
-| **Institución** | [Nombre de la Institución] | [Modificar Institución] |
-| **Carrera** | [Nombre de la Carrera] | [Modificar Carrera] |
-| **Asignatura** | **Teoría de la Programación** | [Modificar Asignatura] |
-| **Docente** | [Nombre del Docente] | [Modificar Docente] |
-| **Estudiante** | [Tu Nombre Completo] | [Modificar Estudiante] |
-| **Ciclo/Nivel** | [Especificar Ciclo/Nivel] | [Modificar Ciclo] |
-| **Período Académico** | [Especificar Período: p. ej., 2025-II] | [Modificar Período] |
+| **[Ariana Arlette Quezada Fernandez]** | [Primer ciclo ] | [Periodo Septiembre 2025- Febrero 2026] |
 
+---
 ---
 
 ## 2. 🧠 Unidad 1: Fundamentos y Paradigmas
