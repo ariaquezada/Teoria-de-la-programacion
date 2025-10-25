@@ -14,11 +14,11 @@
 | **✨ Ariana Arlette Quezada Fernandez** | **🚀 Primer ciclo** | **🗓️ Septiembre 2025 - Febrero 2026** |
 
 ---
----
-
 ## 📚 Módulos del Portafolio: Tu Viaje en la Programación
 
-Aquí encontrarás el acceso a cada unidad y a los recursos complementarios de tu aprendizaje.
+El primer ciclo de la carrera de ciencia de la computacion cuenta con 3 unidades.
+
+---
 
 ### 🧠 1. Unidad 1: Fundamentos y Paradigmas
 
@@ -32,7 +32,7 @@ _Explorando los pilares del pensamiento computacional y la lógica algorítmica.
 
 _Dominando la organización de la información y la eficiencia en la resolución de problemas._
 
-**🚧 Contenido en Desarrollo:** Esta unidad está siendo elaborada. ¡Pronto encontrarás aquí el acceso a sus fascinantes temas\!
+**🚧 Contenido en Desarrollo:** Esta unidad recien se elaborara.
 
 ---
 
@@ -40,9 +40,8 @@ _Dominando la organización de la información y la eficiencia en la resolución
 
 _Profundizando en los cimientos formales del software y los límites de la computación._
 
-**⏳ Contenido en Desarrollo:** ¡La aventura continúa\! Los temas de esta unidad se irán añadiendo progresivamente.
+**⏳ Contenido en Desarrollo:** Los temas de esta unidad se irán añadiendo progresivamente.
 
----
 ---
 
 ## 🌐 Recursos Adicionales
